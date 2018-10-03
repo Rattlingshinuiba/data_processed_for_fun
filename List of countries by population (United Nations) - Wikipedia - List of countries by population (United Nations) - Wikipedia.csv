@@ -1,0 +1,236 @@
+rank,country,continent,population
+"—
+",World,—,7466964280
+1, China[a],Asia,1403500365
+2, India,Asia,1324171354
+3, United States,Americas,322179605
+4, Indonesia,Asia,261115456
+5, Brazil,Americas,207652865
+6, Pakistan,Asia,193203476
+7, Nigeria,Africa,185989640
+8, Bangladesh,Asia,162951560
+9, Russia,Europe,146864513
+10, Mexico,Americas,127540423
+11, Japan,Asia,127748513
+12, Ethiopia,Africa,102403196
+13, Philippines,Asia,103320222
+14, Egypt,Africa,95688681
+15, Vietnam,Asia,94569072
+16, Germany,Europe,81914672
+17, Democratic Republic of the Congo,Africa,78736153
+18, Iran,Asia,80277428
+19, Turkey,Asia,79512426
+20, Thailand,Asia,68863514
+21, England,Europe,65788574
+22, France[b],Europe,64720690
+23, Italy,Europe,59429938
+24, Tanzania[c],Africa,55572201
+25, South Africa,Africa,56015473
+26, Myanmar,Asia,52885223
+27, South Korea,Asia,50791919
+28, Colombia,Americas,48653419
+29, Kenya,Africa,48461567
+30, Spain[d],Europe,46347576
+31, Argentina,Americas,43847430
+32, Ukraine[e],Europe,44438625
+33, Uganda,Africa,41487965
+34, Algeria,Africa,40606052
+35, Sudan,Africa,39578828
+36, Iraq,Asia,37202572
+37, Poland,Europe,38224410
+38, Canada,Americas,36289822
+39, Morocco,Africa,35276786
+40, Afghanistan,Asia,34656032
+41, Saudi Arabia,Asia,32275687
+42, Peru,Americas,31773839
+43, Venezuela,Americas,31568179
+44, Uzbekistan,Asia,31446795
+45, Malaysia[f],Asia,31187265
+46, Angola,Africa,28813463
+47, Mozambique,Africa,28829476
+48,   Nepal,Asia,28982771
+49, Ghana,Africa,28206728
+50, Yemen,Asia,27584213
+51, Madagascar,Africa,24894551
+52, North Korea,Asia,25368620
+53, Australia[g],Oceania,24125848
+54, Ivory Coast,Africa,23695919
+55, Cameroon,Africa,23439189
+56, Taiwan[h],Asia,23556706
+57, Niger,Africa,20672987
+58, Sri Lanka,Asia,20798492
+59, Romania,Europe,19778083
+60, Burkina Faso,Africa,18646433
+61, Malawi,Africa,18091575
+62, Mali,Africa,17994837
+63, Syria,Asia,18430453
+64, Kazakhstan,Asia,17987736
+65, Chile,Americas,17909754
+66, Zambia,Africa,16591390
+67, Netherlands,Europe,16987330
+68, Guatemala,Americas,16582469
+69, Ecuador,Americas,16385068
+70, Zimbabwe,Africa,16150362
+71, Cambodia,Asia,15762370
+72, Senegal,Africa,15411614
+73, Chad,Africa,14452543
+74, Somalia,Africa,14317996
+75, Guinea,Africa,12395924
+76, South Sudan,Africa,12230730
+77, Rwanda,Africa,11917508
+78, Tunisia,Africa,11403248
+79, Cuba,Americas,11475982
+80, Belgium,Europe,11358379
+81, Benin,Africa,10872298
+82, Greece,Europe,11183716
+83, Bolivia,Americas,10887882
+84, Haiti,Americas,10847334
+85, Burundi,Africa,10524117
+86, Dominican Republic,Americas,10648791
+87, Czech Republic,Europe,10610947
+88, Portugal,Europe,10371627
+89, Sweden,Europe,9837533
+90, Azerbaijan[i],Asia,9725376
+91, Hungary,Europe,9753281
+92, Jordan,Asia,9455802
+93, Belarus,Europe,9480042
+94, United Arab Emirates,Asia,9269612
+95, Honduras,Americas,9112867
+96, Tajikistan,Asia,8734951
+97, Serbia[j],Europe,8820083
+98, Austria,Europe,8712137
+99,  Switzerland,Europe,8401739
+100, Israel,Asia,8191828
+101, Papua New Guinea,Oceania,8084991
+102, Togo,Africa,7606374
+103, Sierra Leone,Africa,7396190
+104, Hong Kong,Asia,7302843
+105, Bulgaria,Europe,7131494
+106, Laos,Asia,6758353
+107, Paraguay,Americas,6725308
+108, El Salvador,Americas,6344722
+109, Libya,Africa,6293253
+110, Nicaragua,Americas,6149928
+111, Lebanon,Asia,6006668
+112, Kyrgyzstan,Asia,5955734
+113, Turkmenistan,Asia,5662544
+114, Denmark,Europe,5711870
+115, Singapore,Asia,5622455
+116, Finland[k],Europe,5503132
+117, Slovakia,Europe,5444218
+118, Norway[l],Europe,5254694
+119, Congo,Africa,5125821
+120, Eritrea,Africa,4954645
+121, Palestine[m],Asia,4790705
+122, Costa Rica,Americas,4857274
+123, Ireland,Europe,4726078
+124, Liberia,Africa,4613823
+125, New Zealand,Oceania,4660833
+126, Central African Republic,Africa,4594621
+127, Oman,Asia,4424762
+128, Mauritania,Africa,4301018
+129, Croatia,Europe,4213265
+130, Kuwait,Asia,4052584
+131, Panama,Americas,4034119
+132, Moldova[n],Europe,4059608
+133, Georgia[o],Asia,3925405
+134, Puerto Rico,Americas,3667903
+135, Bosnia and Herzegovina,Europe,3516816
+136, Uruguay,Americas,3444006
+137, Mongolia,Asia,3027398
+138, Armenia,Asia,2924816
+139, Albania,Europe,2926348
+140, Jamaica,Americas,2881355
+141, Lithuania,Europe,2908249
+142, Qatar,Asia,2569804
+143, Namibia,Africa,2479713
+144, Botswana,Africa,2250260
+145, Lesotho,Africa,2203821
+146, The Gambia,Africa,2038501
+147, Republic of Macedonia,Europe,2081206
+148, Slovenia,Europe,2077862
+149, Gabon,Africa,1979786
+150, Latvia,Europe,1970530
+151, Guinea-Bissau,Africa,1815698
+152, Bahrain,Asia,1425171
+153, Trinidad and Tobago,Americas,1364962
+154, Swaziland,Africa,1343098
+155, Estonia,Europe,1312442
+156, East Timor,Asia,1268671
+157, Equatorial Guinea,Africa,1221490
+158, Mauritius[p],Africa,1262132
+159, Cyprus[q],Asia,1170125
+160, Djibouti,Africa,942333
+161, Fiji,Oceania,898760
+162, Réunion,Africa,869925
+163, Comoros,Africa,795601
+164, Bhutan,Asia,797765
+165, Guyana,Americas,773303
+166, Montenegro,Europe,628615
+167, Macau,Asia,612167
+168, Solomon Islands,Oceania,599419
+169, Luxembourg,Europe,575747
+170, Suriname,Americas,558368
+171, Western Sahara,Africa,538755
+172, Cape Verde,Africa,539560
+173, Guadeloupe[r],Americas,449975
+174, Maldives,Asia,427756
+175, Malta,Europe,429362
+176, Brunei,Asia,423196
+177, Bahamas,Americas,391232
+178, Martinique,Americas,385103
+179, Belize,Americas,366954
+180, Iceland,Europe,332474
+181, Barbados,Americas,284996
+182, French Polynesia,Oceania,280208
+183, French Guiana,Americas,275713
+184, New Caledonia,Oceania,272677
+185, Vanuatu,Oceania,270402
+186, Mayotte,Africa,246489
+187, Sao Tome and Principe,Africa,199910
+188, Samoa,Oceania,195125
+189, Saint Lucia,Americas,178015
+190,Guernsey and  Jersey,Europe,164541
+191, Guam,Oceania,162896
+192, Curaçao,Americas,159371
+193, Kiribati,Oceania,114395
+194, Saint Vincent and the Grenadines,Americas,109643
+195, Tonga,Oceania,107122
+196, Grenada,Americas,107317
+197, Federated States of Micronesia,Oceania,104937
+198, Aruba,Americas,104822
+199, United States Virgin Islands,Americas,104913
+200, Antigua and Barbuda,Americas,100963
+201, Seychelles,Africa,94228
+202, Isle of Man,Europe,83737
+203, Andorra,Europe,77281
+204, Dominica,Americas,73543
+205, Cayman Islands,Americas,60765
+206, Bermuda,Americas,61666
+207, Greenland,Americas,56412
+208, American Samoa,Oceania,55599
+209, Saint Kitts and Nevis,Americas,54821
+210, Northern Mariana Islands,Oceania,55023
+211, Marshall Islands,Oceania,53066
+212, Faroe Islands,Europe,49117
+213, Sint Maarten,Americas,39537
+214, Monaco,Europe,38499
+215, Liechtenstein,Europe,37666
+216, Turks and Caicos Islands,Americas,34900
+217, Gibraltar,Europe,34408
+218, San Marino,Europe,33203
+219, British Virgin Islands,Americas,30661
+220, Caribbean Netherlands[s],Americas,25019
+221, Palau,Oceania,21503
+222, Cook Islands,Oceania,17379
+223, Anguilla,Americas,14764
+224, Wallis and Futuna,Oceania,11899
+225, Nauru,Oceania,11347
+226, Tuvalu,Oceania,11097
+227, Saint Pierre and Miquelon,Americas,6305
+228, Montserrat,Americas,5152
+229," Saint Helena, Ascension and Tristan da Cunha",Africa,4035
+230, Falkland Islands,Americas,2910
+231, Niue,Oceania,1624
+232, Tokelau,Oceania,1282
+233,  Vatican City[t],Europe,801
